@@ -4,13 +4,13 @@ Por:
 Brian Pando. 
 LinSoft.
 
-1. Descargar Mendeley.
+# 1. Descargar Mendeley.
 https://www.mendeley.com/download-desktop
 
-2. Registrarse en Mendeley.
+# 2. Registrarse en Mendeley.
 https://www.mendeley.com/?interaction_required=true
 
-2. Escribiendo el articulo.
+# 3. Escribiendo un Articulo.
 
 Introducción.
 El desarrollo de software es una industria involucra a todo el mundo [2]. En Latino America y Europa la mayoría de empresas son micro y pequeñas [7]. Las microempresas tiene un importante por en la economía del mundo [8]. El uso de estándares es cada vez más demandado para mejorar la competitividad del software [9]. Sin embargo, los negocios pequeños consideran que el uso de estos estandartes es un reto muy grande [11]....
@@ -25,9 +25,9 @@ La investigación presentada en [25] propone el uso de herramientas que cubren t
 Referencias.
 ...
 
-3. Agregar a Mendeley - Web Plugin.
+# 4. Agregar a Mendeley - Web Plugin.
 
-4. Búsqueda de información:
+# 5. Búsqueda de información:
 
 [2]. Mass market development strategies of software industries: Case study based research.
 [7]. Systems engineering and management processes for small organizations with ISO/IEC 29110: An implementation in a small public transportation company.
@@ -37,16 +37,16 @@ Referencias.
 [25]. Implementation and Certification of ISO/IEC 29110 in an IT Startup in Peru
 
 
-5. Sincronizar Mendeley Desktop.
+# 6. Sincronizar Mendeley Desktop.
 
-6. Utilizar cita en MS Word.
+# 7. Utilizar cita en MS Word.
 
-7. Generar Referencia Bibliografica.
+# 8. Generar Referencia Bibliografica.
 
-8. Agregar articulo en PDF que no se encontró en internet.
+# 9. Agregar articulo en PDF que no se encontró en internet.
 
-9. Actualizar Bibliografia.
+# 10. Actualizar Referencasias.
 
-10. Grupos en Mendeley
+# 11. Grupos en Mendeley
 
 APA. español: http://csl.mendeley.com/styles/490077111/apa
