@@ -45,7 +45,7 @@ Referencias.
 
 # 9. Agregar articulo en PDF que no se encontró en internet.
 
-# 10. Actualizar Referencasias.
+# 10. Actualizar Referencias.
 
 # 11. Grupos en Mendeley
 
