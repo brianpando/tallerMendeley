@@ -2,7 +2,7 @@
 
 Por: 
 Brian Pando. 
-LinSoft.
+GinSoft.
 
 # 1. Descargar Mendeley.
 https://www.mendeley.com/download-desktop
